@@ -1,1 +1,1 @@
-# Card Game
+# Evangelion Card Game
